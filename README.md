@@ -39,9 +39,9 @@
   <p align="center">
     <br />
      <a href="https://github.com/Avi1122/Floood_Prediction_Project">
-    <img src="images/Watershed.jpg" align="right"  width="500" height="100"/>
-      </a>
-    <a href="https://github.com/Avi1122/Floood_Prediction_Project"><strong>Explore the docs »</strong></a>
+    <img src="images/Watershed.jpg" align="right"  width="500" height="400"/>
+     </a>
+    <a href="https://github.com/Avi1122/Floood_Prediction_Project"><strong>Explore the docs » </strong></a>
     <br />
     <br />
     <a href="https://github.com/Avi1122/Floood_Prediction_Project/issues">Report Bug</a>
