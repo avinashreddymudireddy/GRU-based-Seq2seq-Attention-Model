@@ -34,19 +34,19 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Towards Decoding the Ability of AI Algorithms to Identify the Input-Output Function Connecting Rainfall and Streamflow</h3>
+  <h3 align="center">Using a Physics-based Hydrological Model and Storm Transposition to Investigate Machine-Learning Algorithms for Streamflow Prediction</h3>
 <br />
   <p align="center">
     <br />
-     <a href="https://github.com/Avi1122/Floood_Prediction_Project">
+     <a href="https://github.com/Avi1122/GRU-based-Seq2seq-Attention-Model">
     <img src="images/Watershed.jpg" align="right"  width="500" height="400"/>
      </a>
-    <a href="https://github.com/Avi1122/Floood_Prediction_Project"><strong>Explore the docs » </strong></a>
+    <a href="https://github.com/Avi1122/GRU-based-Seq2seq-Attention-Model"><strong>Explore the docs » </strong></a>
     <br />
     <br />
-    <a href="https://github.com/Avi1122/Floood_Prediction_Project/issues">Report Bug</a>
+    <a href="https://github.com/Avi1122/GRU-based-Seq2seq-Attention-Model/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Avi1122/Floood_Prediction_Project/issues">Request Feature</a>
+    <a href="https://github.com/Avi1122/GRU-based-Seq2seq-Attention-Model/issues">Request Feature</a>
   </p>
 </p>
 
@@ -123,7 +123,7 @@ conda activate flood_prediction
 
 1. Clone the repo
 ```sh
-git clone https://github.com/Avi1122/Floood_Prediction_Project.git
+git clone https://github.com/Avi1122/GRU-based-Seq2seq-Attention-Model.git
 ```
 2. Install dependency packages using the *requirements.txt* file attached in this repo using
 ```sh
@@ -171,7 +171,7 @@ python Predict_api.py -h
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/Avi1122/Floood_Prediction_Project/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Avi1122/GRU-based-Seq2seq-Attention-Model/issues) for a list of proposed features (and known issues).
 
 
 
@@ -199,7 +199,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mudireddy Avinash Reddy - [@linkedin](https://www.linkedin.com/in/mudireddy-avinash-reddy-367121a2/) 
 
-Project Link: [https://github.com/Avi1122/Floood_Prediction_Project](https://github.com/Avi1122/Floood_Prediction_Project)
+Project Link: [https://github.com/Avi1122/GRU-based-Seq2seq-Attention-Model](https://github.com/Avi1122/GRU-based-Seq2seq-Attention-Model)
 
 
 
@@ -207,23 +207,19 @@ Project Link: [https://github.com/Avi1122/Floood_Prediction_Project](https://git
 ## Acknowledgements
 
 * [IIAI](https://www.iiai.uiowa.edu/)
-* []()
-* []()
-
-
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
-[contributors-url]: https://github.com/Avi1122/Floood_Prediction_Project/graphs/contributors
+[contributors-url]: https://github.com/Avi1122/GRU-based-Seq2seq-Attention-Model/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
-[forks-url]: https://github.com/Avi1122/Floood_Prediction_Project/network/members
+[forks-url]: https://github.com/Avi1122/GRU-based-Seq2seq-Attention-Model/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
-[stars-url]: https://github.com/Avi1122/Floood_Prediction_Project/stargazers
+[stars-url]: https://github.com/Avi1122/GRU-based-Seq2seq-Attention-Model/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
-[issues-url]: https://github.com/Avi1122/Floood_Prediction_Project/issues
+[issues-url]: https://github.com/Avi1122/GRU-based-Seq2seq-Attention-Model/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
-[license-url]: https://github.com/Avi1122/Floood_Prediction_Project/blob/master/LICENSE.txt
+[license-url]: https://github.com/Avi1122/GRU-based-Seq2seq-Attention-Model/blob/master/LICENSE.txt
 [product-screenshot]: images/Diag2.jpg
